@@ -22,5 +22,7 @@ git clone adress ==> »—«н «ндШе » жднг «“ —жн Рн  е«» «Ўб«Џ«  —ж »ќжднг ж »н«—нг
 Origin ==> жё н Шбжд гнШдн° «ж—нћнд гн‘е е” е Рн  е«»
 git push origin master ==> «нд нЏдн «Ўб«Џ« н Ше ѕ— ”н” г е”  —ж «“ г” — »е «ж—нћнд »»—
 gut pull origin master ==> «Ўб«Џ«  —ж «“ «ж—нћнд »н«— »е г” —
+git remote add origin https://github.com/hb0101/github_key.git ==> —нгж  ‘ѕд »е нШ «ж—нћнд
+
 
 
