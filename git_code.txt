@@ -23,6 +23,7 @@ Origin ==> жё н Шбжд гнШдн° «ж—нћнд гн‘е е” е Рн  е«»
 git push origin master ==> «нд нЏдн «Ўб«Џ« н Ше ѕ— ”н” г е”  —ж «“ г” — »е «ж—нћнд »»—
 gut pull origin master ==> «Ўб«Џ«  —ж «“ «ж—нћнд »н«— »е г” —
 git remote add origin https://github.com/hb0101/github_key.git ==> —нгж  ‘ѕд »е нШ «ж—нћнд
+git remote rm origin Б«Ш Ш—ѕд —нгж  («ж—нћнд «”ге° е—Нн“ ѕнРе гн‘е Р–«‘  «”г‘ж)
 
 
 
